@@ -1,0 +1,1 @@
+class MyHomework: print("This is the homework1")
