@@ -1,1 +1,1 @@
-class MyHomework: print("This is the homework3")
+class MyHomework: print("This is homework3")
